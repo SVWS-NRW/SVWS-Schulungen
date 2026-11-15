@@ -49,6 +49,19 @@ try{
   await view('/')
  }
  assert.deepEqual((await page.locator('.VPNavBarMenu > a').allTextContents()).map(text=>text.trim()),headings)
+ assert.equal(await page.locator('.VPHero .actions a').innerText(),'Hilfe')
+ assert.equal(await page.locator('.VPHero .actions a').getAttribute('href'),'/hilfe/')
+ assert.equal(await page.getByText('Schulungsunterlagen nach Regierungsbezirk',{exact:true}).count(),0)
+ assert.equal(await page.locator('.VPNavBarMenu').getByRole('link',{name:'Arnsberg'}).getAttribute('href'),'/schulungsmodule/')
+ for(const section of navigation.nav){
+  await view(section.link)
+  assert.equal((await page.locator('#VPSidebarNav a').first().innerText()).trim(),'Rubrik drucken',section.text)
+ }
+ await view('/schulungsmodule/')
+ const sidebarLinks=await page.locator('#VPSidebarNav a').allTextContents()
+ assert.deepEqual(sidebarLinks.slice(0,2).map(text=>text.trim()),['Rubrik drucken','Schulungsmodule'])
+ const arnsbergLinks=await page.locator('#VPSidebarNav .VPSidebarItem.level-1 > .item a').allTextContents()
+ assert.ok(!arnsbergLinks.some(text=>text.trim()==='Übersicht'))
  const article='/hilfe/github-editor.html'
  for(const width of [1440,390]){
   await page.setViewportSize({width,height:900})

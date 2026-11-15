@@ -1,6 +1,6 @@
 # SVWS-Schulungen – Dokumentation
 
-Schulungsunterlagen zu SchILD-NRW und SVWS für die fünf Regierungsbezirke in Nordrhein-Westfalen. Die vorhandenen Module, Vorlagen und Moderationsartikel findest Du unter Arnsberg.
+Schulungsunterlagen zu SchILD-NRW und SVWS für die fünf Regierungsbezirke in Nordrhein-Westfalen. Die vorhandenen Module und Vorlagen findest Du unter Arnsberg. Die [Anleitungen für die Moderation](https://svws-nrw.github.io/SVWS-Team/moderation/) stehen in SVWS-Team.
 
 - [Offizielles Repository](https://github.com/SVWS-NRW/SVWS-Schulungen)
 - [Dokumentation auf GitHub Pages](https://svws-nrw.github.io/SVWS-Schulungen/)
