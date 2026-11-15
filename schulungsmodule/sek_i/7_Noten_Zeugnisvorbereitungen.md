@@ -1,6 +1,6 @@
 # 7 Noten und Zeugnisvorbereitungen  
 
-## 7.1  [Noten, Mahnungen und Fehlstunden eingeben](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noten,_Mahnungen_und_Fehlstd._eingeben_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))  
+## 7.1  [Noten, Mahnungen und Fehlstunden eingeben](https://schild3.svws-nrw.de/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstd-eingeben-gruppenprozesse-noten-zeugnisvorbereitung.html)
 
 **Aufgabe 1**  
 Rufe über Kataloge -> Floskeln bearbeiten die Verwaltung der Floskeln auf. Überprüfe die Gruppenzugehörigkeit der Floskeln und korrigiere sie bei Bedarf. Weise den einzelnen Gruppen verschiedene Farben zu.  

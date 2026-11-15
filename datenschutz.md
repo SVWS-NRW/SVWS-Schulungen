@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-Diese Hinweise beziehen sich auf SVWS-Schulungen auf [GitHub Pages](https://svws-nrw.github.io/SVWS-Schulungen/).
+Diese Hinweise beziehen sich auf SVWS-Schulungen unter [schulungen.svws-nrw.de](https://schulungen.svws-nrw.de/).
 
 ## Verantwortliche Stelle und Kontakt
 

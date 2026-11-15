@@ -7,7 +7,7 @@ Zusätzlich zur Desktopanwendung SchILD-NRW3 (Im folgenden kurz SchILD3; früher
 
 In diesem Modul werden beide Varianten vorgestellt.
 
-Die Fortbildungsmodule finden sich hier: https://svws-nrw.github.io/SVWS-Schulungen/schulungsmodule/
+Die Fortbildungsmodule finden sich hier: https://schulungen.svws-nrw.de/schulungsmodule/
 
 ## Inhalt dieses Moduls
 

@@ -8,8 +8,8 @@ Die aktuellen Informationen und Downloads zu SchiLD und allen Tools findest Du i
 
 Schnelle Hilfe bei aktuellen Fragen/Problemen findest Du in der folgenden Reihenfolge auf www.svws.nrw.de
 
-- Online-Doku-Wiki
-Ausführliche Informationen und Anleitungen findest Du im [SchiLD-NRW-Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/). Es ersetzt die sonst üblichen Handbücher.
+- SchILD3-Doku
+Ausführliche Informationen und Anleitungen findest Du im [SchILD3-Doku](https://schild3.svws-nrw.de/). Es ersetzt die sonst üblichen Handbücher.
 
 - Forum
 Aktuelle Fragen/Problemen findest Du im [Forum](https://schulverwaltungsinfos.nrw.de/svws/forum/index.php) - diskutiert und beantwortet - nach Schulform sortiert.
@@ -39,7 +39,7 @@ Das Fortbildungsangebot der Bezirksregierung Arnsberg findest Du [hier](https://
 ### Aufgabe 1 "Orientierung"
 
 1.1 Orientiere Dich auf der Seite https://www.svws.nrw.de  
-1.2 Rufe das SchILD-NRW Wiki auf.  
+1.2 Rufe die SchILD3-Doku auf.\
 1.3 Lies Dich die Informationen zu den telefonischen Ansprechpartnern durch.
 
 ### Aufgabe 2
@@ -54,9 +54,9 @@ Das Fortbildungsangebot der Bezirksregierung Arnsberg findest Du [hier](https://
 
 # 2. Erste Orientierung in SchILD-NRW
 
-Die [Wiki-Seite](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3) hilft Dir einen strukturierten Blick auf SchILD zu erhalten - mitsamt allen Unterpunkten.
+Die [SchILD3-Doku](https://schild3.svws-nrw.de/schild3/) hilft Dir einen strukturierten Blick auf SchILD zu erhalten - mitsamt allen Unterpunkten.
 
-Die [Übersicht zu SchILD3](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=%C3%9Cbersicht:_SchILD-NRW_3_(Einf%C3%BChrung)), die [Karteireiterübersicht](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3#Karteireiter) und die [Tutorials](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3#Tutorials) für oft verwendete Schritte helfen bei der ersten Orientierung.
+Die [Übersicht zu SchILD3](https://schild3.svws-nrw.de/einstieg/grundlagen/uebersicht-schild-nrw-3-einfuehrung.html), die [Karteireiterübersicht](https://schild3.svws-nrw.de/schild3/) und die [Tutorials](https://schild3.svws-nrw.de/hilfe/alle-artikel.html) für oft verwendete Schritte helfen bei der ersten Orientierung.
 
 # 3. Reiter: Verwaltung
 
@@ -76,7 +76,7 @@ Hier sind die folgenden Unterreiter aufgeführt:
 
 ## 3.1 Schule
 
-Unter dem Aspekt [Schule](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schule_(Verwaltung)) werden die Grundeinstellungen und Stammdaten der Schule vorgenommen und geprüft - mitsamt der drei Karteireiter: [Vorschau](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vorschau_(Verwaltung_Schule)), [Allgemeine Angaben](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Allgemeine_Angaben_(Verwaltung_Schule))  und [Weitere Angaben](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Weitere_Angaben_(Verwaltung_Schule)), die im Wiki erklärt sind.
+Unter dem Aspekt [Schule](https://schild3.svws-nrw.de/einstieg/erste-schritte/schule-verwaltung.html) werden die Grundeinstellungen und Stammdaten der Schule vorgenommen und geprüft - mitsamt der drei Karteireiter: [Vorschau](https://schild3.svws-nrw.de/schild3/schueler/vorschau-verwaltung-schule.html), [Allgemeine Angaben](https://schild3.svws-nrw.de/schild3/schueler/allgemeine-angaben-verwaltung-schule.html)  und [Weitere Angaben](https://schild3.svws-nrw.de/schild3/schueler/weitere-angaben-verwaltung-schule.html), die in der SchILD3-Doku erklärt sind.
 
 **Aufgabe 1**
 Navigiere zu **Verwaltung → Schule** und überprüfe die Angaben der Schule z.B. organisatorische Angaben, Dauer der Unterrichtseinheit, Teilstandorte, Schulleitung, Merkmale.
@@ -95,7 +95,7 @@ Trage eine Lehrkraft als Schulleitung ein.
 
 SchILD-NRW kann in einem vernetzten System so installiert werden, dass mehrere Personen gleichzeitig auf Programm und Datenbank zugreifen können. Auch wenn das Programm nur auf einem einzigen (isolierten) Rechner läuft, können mehrere unterschiedliche Nutzer eingerichtet werden.
 
-Diese Nutzer können mithilfe der [Benutzerverwaltung](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzerverwaltung_(Verwaltung_Schule)) mit unterschiedlichen Berechtigungen ausgestattet werden.
+Diese Nutzer können mithilfe der [Benutzerverwaltung](https://schild3.svws-nrw.de/administration/benutzer-einstellungen/benutzerverwaltung-verwaltung-schule.html) mit unterschiedlichen Berechtigungen ausgestattet werden.
 Beispielhafte Rollenverteilung:
 
 - Die Schulsekretärin pflegt z. B. Schülerstammdaten, hat jedoch keinen Zugriff auf Leistungsdaten.
@@ -135,7 +135,7 @@ Weitere Unterpunkte werden an dieser Stelle nur exemplarisch gezeigt.
 
 ## 3.4 Einstellungen
 
-[Hier](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einstellungen_(Verwaltung)) lassen sich verschiedene Einstellungen vornehmen - individueller und globaler Art oder auch bzgl. der Reports.
+[Hier](https://schild3.svws-nrw.de/administration/benutzer-einstellungen/einstellungen-verwaltung.html) lassen sich verschiedene Einstellungen vornehmen - individueller und globaler Art oder auch bzgl. der Reports.
 
 **Aufgabe 1**
 Ändere die Farbe der statistikrelevanten Felder in ein dunkles Grün.
@@ -155,11 +155,11 @@ Hinter dem Reiter **Lehrkräfte** werden die Lehrer:innen der Schule zentral ver
 
 ## 4.1 Menüband
 
-Im [Menüband](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Lehrkr%C3%A4fte)) der Lehrkräfte befinden sich die Bearbeitung, die Aktionen und Filteroptionen.
+Im [Menüband](https://schild3.svws-nrw.de/schild3/lehrkraefte/menueband-lehrkraefte.html) der Lehrkräfte befinden sich die Bearbeitung, die Aktionen und Filteroptionen.
 
 ## 4.2 Basisdaten
 
-In diesem [Karteireiter](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisdaten_(Lehrkr%C3%A4fte)) werden die Stammdaten der Lehrkräfte erfasst und verwaltet. Der Reiter gliedert sich in drei Bereiche:
+In diesem [Karteireiter](https://schild3.svws-nrw.de/schild3/lehrkraefte/basisdaten-lehrkraefte.html) werden die Stammdaten der Lehrkräfte erfasst und verwaltet. Der Reiter gliedert sich in drei Bereiche:
 
 - die Individualdaten
 
@@ -171,9 +171,9 @@ Diese Informationen bilden die Grundlage für schulinterne Verwaltung sowie stat
 
 ## 4.3 Schulbezogene und zeitabhängige Daten
 
-Diese beiden Karteireiter, [schulbezogene Daten](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbezogene_Daten_(Lehrkr%C3%A4fte)) und [zeitabhängige Daten](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeitabh%C3%A4ngige_Daten_(Lehrkr%C3%A4fte)), beinhalten statistikrelevante Daten, welche aber auch aus den Vorgabedaten stammen und erfasst werden könnten.
+Diese beiden Karteireiter, [schulbezogene Daten](https://schild3.svws-nrw.de/schild3/lehrkraefte/schulbezogene-daten-lehrkraefte.html) und [zeitabhängige Daten](https://schild3.svws-nrw.de/schild3/lehrkraefte/zeitabhaengige-daten-lehrkraefte.html), beinhalten statistikrelevante Daten, welche aber auch aus den Vorgabedaten stammen und erfasst werden könnten.
 
-## 4.4 [Einwilligungen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einwilligungen_(Lehrkr%C3%A4fte))
+## 4.4 [Einwilligungen](https://schild3.svws-nrw.de/schild3/lehrkraefte/einwilligungen-lehrkraefte.html)
 
 Dieser Bereich wird an dieser Stelle nur kurz vorgestellt.
 
@@ -198,11 +198,11 @@ Exportiere eine Excel Datei mit den Namen aller sichtbaren Lehrkräfte.
 
 # 5. Reiter: Schüler
 
-Im Reiter [**Schüler**](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3#Karteireiter_Sch%C3%BCler) werden sämtliche  Schüler:innen der Schule verwaltet. Hier erfolgt die zentrale Bearbeitung der Stammdaten, Bildungsbiografien und statistisch relevanter Angaben.
+Im Reiter [**Schüler**](https://schild3.svws-nrw.de/schild3/schueler.html) werden sämtliche  Schüler:innen der Schule verwaltet. Hier erfolgt die zentrale Bearbeitung der Stammdaten, Bildungsbiografien und statistisch relevanter Angaben.
 
 ## 5.1 Menüband
 
-Im [Menüband](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Sch%C3%BCler)) der Schüler:innen stehen verschiedene Funktionen zur Verfügung:
+Im [Menüband](https://schild3.svws-nrw.de/schild3/schueler/menueband-schueler.html) der Schüler:innen stehen verschiedene Funktionen zur Verfügung:
 
 - Bearbeiten
 - Suchen, filtern und sortieren
@@ -229,25 +229,25 @@ Nach Auswahl einer Lerngruppe, Klasse, Jahrgangs- oder Kurszugehörigkeit muss d
 Jede:r Schüler:in verfügt über mehrere Karteireiter (i. d. R. 10, bei aktivierter Dokumentenverwaltung auch 11).
 Im Rahmen dieser Basisschulung (S1) stehen folgende Reiter im Fokus:
 
-### 5.3.1 [Individualdaten I](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individualdaten_I_(Sch%C3%BCler))
+### 5.3.1 [Individualdaten I](https://schild3.svws-nrw.de/schild3/schueler/individualdaten-i-schueler.html)
 
 Erster Teil der personenbezogenen Schülerdaten (z. B. Name, Geburtsdaten, Geschlecht).
 
-### 5.3.2 [Individualdaten II](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individualdaten_II_(Sch%C3%BCler))
+### 5.3.2 [Individualdaten II](https://schild3.svws-nrw.de/schild3/schueler/individualdaten-ii-schueler.html)
 
 In den Individualdaten II werden Informationen zur Einwanderungsgeschichte, dem Schulbesuch und sonderpädagogischen Förderungen eines Schülers erfasst.
 
-### 5.3.3 [Erz.-Berechtigte / Telefonnummern](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Erz.-Berechtigte_/_Telefonnummern_(Sch%C3%BCler))
+### 5.3.3 [Erz.-Berechtigte / Telefonnummern](https://schild3.svws-nrw.de/schild3/schueler/erz-berechtigte-telefonnummern-schueler.html)
 
 Hier werden die Erziehungsberechtigten, deren Detaildaten und die Telefonnummern der Ansprechpartner erfasst.
 
-### 5.3.4 [Vermerke](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vermerke_(Sch%C3%BCler))
+### 5.3.4 [Vermerke](https://schild3.svws-nrw.de/schild3/schueler/vermerke-schueler.html)
 
 Jeder Vermerk besteht aus einer Vermerkart, einem Datum der Anlage, einer optionalen Bemerkung und wer den Vermerk angelegt und dann wer ihn zuletzt geändert hat.
 
 **Hinweis:** Neue Vermerkarten können später über den Bereich **Kataloge** angelegt werden.
 
-### 5.3.5 [Schulbesuch](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbesuch_(Sch%C3%BCler))
+### 5.3.5 [Schulbesuch](https://schild3.svws-nrw.de/schild3/schueler/schulbesuch-schueler.html)
 
 Hier werden Daten zur Schule vor der eignen Aufnahme, zur Entlassung von eigener Schule und bei einem Wechsel der Schule erfasst.
 
@@ -255,7 +255,7 @@ Hier werden Daten zur Schule vor der eignen Aufnahme, zur Entlassung von eigener
 
 **Für die Statistik wichtig:** Trage hier auch die Daten bei der Entlassung von der eigenen Schule ein. Dies betrifft Abschluss wie Abgänger.
 
-### 5.3.6 [Aktuelles Halbjahr](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Aktuelles_Halbjahr_/_Aktueller_Abschnitt_(Sch%C3%BCler))
+### 5.3.6 [Aktuelles Halbjahr](https://schild3.svws-nrw.de/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler.html)
 
 Dieser Reiter wird insbesondere in der Folgefortbildung S2 oder S3 genutzt, da dort Leistungsdaten eingetragen werden.
 
@@ -300,17 +300,17 @@ Im Reiter **Auswahl** erfolgt die zentrale Verwaltung und Filterung der Schüler
 
 ## 6.1 Menüband
 
-Im [Menüband](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Auswahl)) der Auswahl befinden sich die Standardauswahl und der Schülerfilter sowie weitere Filteroptionen als Schnellauswahl.
+Im [Menüband](https://schild3.svws-nrw.de/schild3/schueler/menueband-auswahl.html) der Auswahl befinden sich die Standardauswahl und der Schülerfilter sowie weitere Filteroptionen als Schnellauswahl.
 
 ## 6.2 Schülerfilter
 
-Der [Schülerfilter](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClerfilter_(Auswahl)) ist ein mächtiges Werkzeug, um Schüler:innen nach verschiedenen Eigenschaften zu filtern und gezielt zu finden. Über den Filter kannst Du eine Kombination aus mehreren Kriterien angeben, um die Auswahl einzugrenzen.
+Der [Schülerfilter](https://schild3.svws-nrw.de/schild3/suchen-gruppenprozesse/schuelerfilter-auswahl.html) ist ein mächtiges Werkzeug, um Schüler:innen nach verschiedenen Eigenschaften zu filtern und gezielt zu finden. Über den Filter kannst Du eine Kombination aus mehreren Kriterien angeben, um die Auswahl einzugrenzen.
 
 Du siehst hier ein Fenster, das dem Karteireiter **Schüler** ähnelt und Dir die Möglichkeit gibt, gezielt nach verschiedenen Merkmalen zu suchen.
 
 **Tipp:** Es ist möglich, über mehrere Reiter hinweg zu filtern, um noch genauere Ergebnisse zu erzielen.
 
-## 6.3 [Individuelle Schülergruppe erstellen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individuelle_Sch%C3%BClergruppen_bearbeiten_und_nutzen_(Tutorial))
+## 6.3 [Individuelle Schülergruppe erstellen](https://schild3.svws-nrw.de/schild3/schueler/individuelle-schuelergruppen-bearbeiten-und-nutzen-tutorial.html)
 
 Erstellen und hinzufügen wird demonstriert. Rechtsklick beachten. Button bei Auswahl.
 
@@ -380,7 +380,7 @@ Teste Gruppenprozesse, die für Deinen Schulalltag hilfreich sind. Hier und heut
 
 # 8. Reiter: Kataloge
 
-Im Reiter [**Kataloge**](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3#Karteireiter_Kataloge) sind alle Übersichten hinterlegt, die entweder das Land NRW bzw. das Schulgeschehen in NRW als Ganzes betreffen (z. B. die Orte im Bundesland) oder die für die jeweilige Schule individuell eingerichtet werden können (z. B. die Unterrichtsfächer an der jeweiligen Schule).
+Im Reiter [**Kataloge**](https://schild3.svws-nrw.de/schild3/unterricht-kataloge.html) sind alle Übersichten hinterlegt, die entweder das Land NRW bzw. das Schulgeschehen in NRW als Ganzes betreffen (z. B. die Orte im Bundesland) oder die für die jeweilige Schule individuell eingerichtet werden können (z. B. die Unterrichtsfächer an der jeweiligen Schule).
 
 Die Einträge aus den unterschiedlichen Katalogen stehen an verschiedenen Stellen im Programm in Drop-Down-Menüs wieder zur Verfügung.
 
@@ -388,7 +388,7 @@ Besonders wichtige Kataloge sind die schulbezogenen.
 
 ## 8.1 Menüband
 
-Ein Menüband existiert für die Kataloge nicht. Stattdessen kann der jeweilige, zu bearbeitende [Allgemeine Katalog](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Allgemeine_Kataloge_(Kataloge)) oder [Schulbezogene Katalog](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbezogene_Kataloge_(Kataloge)) direkt im linken Teil des Bildschirms angewählt werden.
+Ein Menüband existiert für die Kataloge nicht. Stattdessen kann der jeweilige, zu bearbeitende [Allgemeine Katalog](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/allgemeine-kataloge-kataloge.html) oder [Schulbezogene Katalog](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/schulbezogene-kataloge-kataloge.html) direkt im linken Teil des Bildschirms angewählt werden.
 
 ## 8.2 Bearbeitung von Katalogen
 
@@ -401,38 +401,38 @@ Sieh Dich z. B. die Kataloge "Erzieherarten" und "Telefonarten" an und überprü
 Nimm bei Bedarf einige wenige Anpassungen vor, indem Du nicht sinnvolle Einträge löschen und andere Einträge ergänzen.
 
 **Aufgabe 2**
-Blende den [Entlassgrund](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Entlassungs-Bemerkungen_(Allgemeine_Kataloge)) "FSJ" aus.
+Blende den [Entlassgrund](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/entlassungs-bemerkungen-allgemeine-kataloge.html) "FSJ" aus.
 
 **Hinweis:** Wenn ein Katalogeintrag ausgeblendet wird, taucht er nicht mehr im entsprechenden Drop-Down-Menü auf. Überzeuge Dich für den o. g. Eintrag davon.
 Im Drop-Down-Menü wird der Eintrag erst wieder anwählbar, wenn im Katalog der Haken bei "sichtbar" gesetzt ist.
 
 **Aufgabe 3**
-Für "katholische" Schüler:innen existieren unterschiedliche Einträge (z. B. "kath." oder "röm.kath.") zur [Konfession](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Konfessionen_(Allgemeine_Kataloge)). Wähle alle "katholischen" Schüler:innen aus und weise ihnen nur einen einzigen Katalogeintrag zu. Lösche anschließend alle nicht nötigen Katalogeinträge. Was stellst Du fest?
+Für "katholische" Schüler:innen existieren unterschiedliche Einträge (z. B. "kath." oder "röm.kath.") zur [Konfession](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/konfessionen-allgemeine-kataloge.html). Wähle alle "katholischen" Schüler:innen aus und weise ihnen nur einen einzigen Katalogeintrag zu. Lösche anschließend alle nicht nötigen Katalogeinträge. Was stellst Du fest?
 
 **Aufgabe 4**
-Ergänze bei den [Schulen in NRW](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulen_in_NRW_(Allgemeine_Kataloge)) diese Schulen:
+Ergänze bei den [Schulen in NRW](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/schulen-in-nrw-allgemeine-kataloge.html) diese Schulen:
 
 - 189716 Michael Ende-Schule, 57462 Olpe
 - 185723 Max von der Grün-Schule, LWL-Förderschule, 57462 Olpe
 
 **Aufgabe 5**
-Ergänze bei den [Haltestellen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Haltestellen_(Allgemeine_Kataloge))
+Ergänze bei den [Haltestellen](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/haltestellen-allgemeine-kataloge.html)
 
 - Rhode (2 km)
 - Stade (2 km)
 
 **Aufgabe 6**
-Lege unter [Personengruppen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Personengruppen_(Schulbezogene_Kataloge)) die Gruppe "Schulkonferenz" an.
+Lege unter [Personengruppen](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge.html) die Gruppe "Schulkonferenz" an.
 Weise dieser Gruppe eine:n Schüler:in, eine Lehrkraft, einen Elternteil und testweise eine "sonstige" Person mit freien Eingaben als Mitglied an.
 Überprüfe, ob direkt mehrere Schüler:innen dieser Personengruppe zugewiesen werden können.
 
 **Aufgabe 7**
-Lege einen weiteren [Betrieb](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Allgemeine_Adressen_(Allgemeine_Kataloge)) (Hinweis: Dies ist in einer aktuellen SchILD-Version umbenannt worden, was das Wiki noch nicht berücksichtigt.) an, der Praktikumsplätze bietet und für den eine Unterweisung nach dem Infektionsschutzgesetz notwendig ist. Füge dem Betrieb einen Ansprechpartner hinzu.
+Lege einen weiteren [Betrieb](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/allgemeine-adressen-allgemeine-kataloge.html) an, der Praktikumsplätze bietet und für den eine Unterweisung nach dem Infektionsschutzgesetz notwendig ist. Füge dem Betrieb einen Ansprechpartner hinzu.
 Trage diesen Betrieb bei eine:m Schüler:in ein.
 Überprüfe auch hier, ob direkt mehrere Schüler:innen diesem Betrieb zugewiesen werden können.
 
 **Aufgabe 8**
-Trage die [Ankreuzkompetenz](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ankreuzkompetenzen_(Schulbezogene_Kataloge)) "...beherrscht die Grundrechenarten." für das Fach Mathematik im Jahrgang 5 ein.
+Trage die [Ankreuzkompetenz](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/ankreuzkompetenzen-schulbezogene-kataloge.html) "...beherrscht die Grundrechenarten." für das Fach Mathematik im Jahrgang 5 ein.
 
 # 9. Reiter: Reportverwaltung
 
@@ -444,7 +444,7 @@ Reports für SchILD werden auf dieser Seite bereitgestellt:
 
 ## 9.1 Menüband
 
-Im [Menüband](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Reportverwaltung)) können einige wenige Einstellungen vorgenommen und Informationen abgerufen werden.
+Im [Menüband](https://schild3.svws-nrw.de/reporting/reportverwaltung/menueband-reportverwaltung.html) können einige wenige Einstellungen vorgenommen und Informationen abgerufen werden.
 
 Ein Klick auf "Standardformulare" zeigt z. B., welche Berichte als Standard für Schulbescheinigungen oder Stammblätter eingestellt sind.
 
@@ -460,7 +460,7 @@ Sieh Dich den Bericht "Schülerliste - Klasse.rtm" für die Klasse 05A an.
 Sieh Dich nun denselben Bericht *aus dem vergangenen Schuljahr* an.
 
 **Aufgabe 3**
-Aktiviere den [Schnellzugriff](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reports_%C3%BCber_den_Schnellzugriff_aufrufen) auf häufig genutzte Reports. Hiernach ist ein Neustart des Programms nötig.
+Aktiviere den [Schnellzugriff](https://schild3.svws-nrw.de/reporting/reportverwaltung/reports-ueber-den-schnellzugriff-aufrufen.html) auf häufig genutzte Reports. Hiernach ist ein Neustart des Programms nötig.
 Suche einen Report einer Klassenliste und füge ihn diesem Schnellzugriff hinzu.
 
 **Aufgabe 4**
@@ -472,9 +472,9 @@ Drucke einen [Serienbrief](https://www.svws.nrw.de/reports-schild-nrw-3) an die 
 
 # 10. Versetzung
 
-## 10.1 [Versetzung ins neue Halbjahr](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzung/%C3%9Cbertrag_ins_neue_Halbjahr_oder_Abschluss_(Gruppenprozesse_Lernabschnitte,_Versetzung))
+## 10.1 [Versetzung ins neue Halbjahr](https://schild3.svws-nrw.de/zeugnisse/vorbereitung/versetzung-uebertrag-ins-neue-halbjahr-oder-abschluss-gruppenprozesse-lernabschnitte-versetzung.html)
 
-## 10.2 [Versetzung ins neue Schuljahr](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzung_ins_neue_Schuljahr_und_Abschnittswechsel_durchf%C3%BChren_(Einf%C3%BChrung_in_SchILD-NRW))
+## 10.2 [Versetzung ins neue Schuljahr](https://schild3.svws-nrw.de/einstieg/grundlagen/versetzung-ins-neue-schuljahr-und-abschnittswechsel-durchfuehren-einfuehrung-in-schild-nrw.html)
 
 **Aufgabe** Führe beide Versetzungen durch an unserer Datenbank.
 

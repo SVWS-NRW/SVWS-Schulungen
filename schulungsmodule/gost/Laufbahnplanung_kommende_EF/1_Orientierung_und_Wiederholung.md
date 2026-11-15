@@ -4,7 +4,7 @@
 + dem SVWS-Webclient
 + Wie sind die Struktruren im Hintergrund, auf dem unsere Leistungsdatenverwaltung aufsetzt?
 
-Das Online-Skript findest Du hier: https://svws-nrw.github.io/SVWS-Schulungen/schulungsmodule/
+Das Online-Skript findest Du hier: https://schulungen.svws-nrw.de/schulungsmodule/
 
 Navigiere dann zu *"GOSt"* und weiter zu *"Laufbahnplanung kommende EF"*.
 
@@ -29,7 +29,7 @@ Schaue in SchILD in die
 
 und gib an, welche Daten jeweils erfasst werden und wo sich Daten finden, die für die Oberstufenlaufbahn relevant sind.
 
-:information_source: [Infos zum aktuellen Halbjahr in SchILD3](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Aktuelles_Halbjahr_/_Aktueller_Abschnitt_(Sch%C3%BCler))
+:information_source: [Infos zum aktuellen Halbjahr in SchILD3](https://schild3.svws-nrw.de/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler.html)
 
 **Aufgaben 1.1.2 "SchILD-Leistungsdaten"**  
 Gehe in die Leistungsdaten eines Schülers (m/w/d/oA) in der Q1 und
@@ -39,18 +39,18 @@ Gehe in die Leistungsdaten eines Schülers (m/w/d/oA) in der Q1 und
 + lösche ein Fach
 + und lass den Schüler einen Kurswechsel durchführen (gleiches Fach, anderer Kurs).
 
-:information_source: [Infos zu den Leistungsdaten im aktuellen Halbjahr](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Leistungsdaten_(Aktuelles_Halbjahr_/_Aktueller_Abschnitt#Erfassung_der_Leistungsdaten))
+:information_source: [Infos zu den Leistungsdaten im aktuellen Halbjahr](https://schild3.svws-nrw.de/schild3/schueler/leistungsdaten-aktuelles-halbjahr-aktueller-abschnitt.html#erfassung-der-leistungsdaten)
 
 **Aufgaben 1.1.3 "SchILD Sprachenfolge korrigieren"**  
 Finde heraus, wo Du die Sprachenfolge eines Schülers findest und füge dem Schüler eine weitere Sprache zu, die in der Sekundarstufe 1 von Jahrgang 6 bis 10 belegt worden sein soll.
 >[!TIP]Moderationshinweis: Verweis auf "Sprachenfolge aus Leistungsdaten" ermitteln, Vorsicht bei Schülern, die nicht die vollst. Laufbahn an der eigenen Schule belegt haben.
 
-:information_source: [Infos zu Sprachenfolgen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Laufbahninfo_(Sch%C3%BCler))
+:information_source: [Infos zu Sprachenfolgen](https://schild3.svws-nrw.de/schild3/schueler/laufbahninfo-schueler.html)
 
 **Aufgaben 1.1.4 "Kontrolliere existierende Kurse"**  
 Öffne den Katalog mit den Kursen und schaue, welche Einstellungen für Kurse vorgenommen werden können.
 
-:information_source: [Infos zum Katalog Kurse](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kurse_(Schulbezogene_Kataloge))
+:information_source: [Infos zum Katalog Kurse](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/kurse-schulbezogene-kataloge.html)
 
 >[!TIP] Moderationshinweis
 > Viel ist hier nichts zu machen und im Moment dient die Ansicht nur zur Kontrolle.
@@ -65,7 +65,7 @@ Finde heraus, wo Du die Sprachenfolge eines Schülers findest und füge dem Sch�
 + Passe die Fremdsprachen bezüglich G8 und G9 und der aktuellen ASD-Vorgaben an.
 + Kontrolliere, im WebClient, Tab Schule/Fächer, ob die Oberstufenfächer "Ist prüfungsordnungsrelevant" gesetzt ist (Prüfe besonders Projekt- und Prüfungskurse)
 
-:information_source: [Infos zum Katalog *Unterrichtsfächer* in SchILD3](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Unterrichtsf%C3%A4cher_(Schulbezogene_Kataloge))
+:information_source: [Infos zum Katalog *Unterrichtsfächer* in SchILD3](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/unterrichtsfaecher-schulbezogene-kataloge.html)
 :information_source: [Infos zu den Unterrichtsfächern im SVWS-Webclient](https://doku.svws-nrw.de/svws-client/apps/schule/kataloge/faecher/)
 
 **Aufgaben 1.1.6 "SchILD Klassen- und Versetzungstabelle"**  
@@ -75,7 +75,7 @@ Finde heraus, wo Du die Sprachenfolge eines Schülers findest und füge dem Sch�
 + Kontrolliere, ob die 10er eine Folgeklasse *EF* eingetragen haben (ebenso Q1 als Folgeklasse der EF bzw. Q2 als Folgeklasse der Q1).
 + Beachte: Die Klassen sind - im Gegensatz zu Schild2 - für jeden Abschnitt angelegt. So wird z.B. auch die Sichtbarkeit abschnittsweise gesteuert, ebenso Klassenlehrer: Wähle zur Ansicht vergangene Abschnitte aus.
 
-:information_source: [Infos zum Katalog *Klassen-/Versetzungstabellen*](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Klassen-%2FVersetzungstabelle_(Schulbezogene_Kataloge))
+:information_source: [Infos zum Katalog *Klassen-/Versetzungstabellen*](https://schild3.svws-nrw.de/zeugnisse/vorbereitung/klassen-versetzungstabelle-schulbezogene-kataloge.html)
 
 > [!TIP] Moderationshinweis
 > * Klassenlehrer bei den 10ern in Ruhe lassen und nicht durch neue Beratungslehrer ersetzen.
@@ -87,9 +87,9 @@ Finde einen Gruppenprozess, der für die Verwaltung von Oberstufenschüler sinnv
 > [!WARNING] Aufgabenhinweis
 > Gruppenprozesse überschreiben unter Umständen zuvor vorgenommene manuelle Änderungen. Interne Prozesse müssen entsprechend angepasst sein.
 
-:information_source: [Infos zu den Gruppenprozessen für die Oberstufe: Sprachenfolge ermitteln](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachenfolge_aus_Leistungsdaten_ermitteln_(Gruppenprozesse_Allgemein))  
-:information_source: [Infos zu den Gruppenprozessen für die Oberstufe: Fachhochschulreife prüfen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fachhochschulreife_pr%C3%BCfen_(Gruppenprozesse_Allgemein))  
-:information_source: [Infos zu den Gruppenprozessen für die Oberstufe: Abitur](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abitur_(Gruppenprozesse_Abitur))
+:information_source: [Infos zu den Gruppenprozessen für die Oberstufe: Sprachenfolge ermitteln](https://schild3.svws-nrw.de/schild3/suchen-gruppenprozesse/sprachenfolge-aus-leistungsdaten-ermitteln-gruppenprozesse-allgemein.html)\
+:information_source: [Infos zu den Gruppenprozessen für die Oberstufe: Fachhochschulreife prüfen](https://schild3.svws-nrw.de/schild3/suchen-gruppenprozesse/fachhochschulreife-pruefen-gruppenprozesse-allgemein.html)\
+:information_source: [Infos zu den Gruppenprozessen für die Oberstufe: Abitur](https://schild3.svws-nrw.de/zeugnisse/sekundarstufen/abitur-gruppenprozesse-abitur.html)
 
 >[!TIP] Moderationshinweis
 > Hinweis darauf, dass das Abitur mit vielen Gruppenprozessen durchgeführt werden kann.
@@ -98,12 +98,12 @@ Finde einen Gruppenprozess, der für die Verwaltung von Oberstufenschüler sinnv
 **Aufgaben 1.1.8 "SchILD Sprachenfolge Gruppenprozesse"**  
 Füge Schülern (m/w/d) der Q2 Sprachen in der Sprachenfolge per Gruppenprozess hinzu (wir nehmen Schüler der Q2, da diese für unsere EF-Schulung keine Rolle mehr spielen).
 
-:information_source: [Infos zu den Gruppenprozessen für die Oberstufe: Sprachenfolge zuweisen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachenfolge_zuweisen_(Gruppenprozesse_Allgemein))
+:information_source: [Infos zu den Gruppenprozessen für die Oberstufe: Sprachenfolge zuweisen](https://schild3.svws-nrw.de/schild3/suchen-gruppenprozesse/sprachenfolge-zuweisen-gruppenprozesse-allgemein.html)
 <!--
 **Aufgaben 1.1.9 "SchILD Schüler neu aufnehmen für die kommende EF"**  
 Nimm eine Schülerin neu für das kommende Schuljahr in die Stufe EF auf. In welchen Reitern sind welche Angaben aufzunehmen?
 
-:information_source: [Infos zur Neuaufnahme](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Neuaufnahmen_in_Schild-NRW_(Tutorial))
+:information_source: [Infos zur Neuaufnahme](https://schild3.svws-nrw.de/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-tutorial.html)
 
 >[!TIP] Moderationshinweis
 > Neuaufnahmen sind die SL/AL/das Sekretariat je nach Verfahren an der Schule durchzuführen. Die BL können dann weitere Details nachtragen.

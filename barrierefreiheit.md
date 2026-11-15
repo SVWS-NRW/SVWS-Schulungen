@@ -1,6 +1,6 @@
 # Erklärung zur Barrierefreiheit
 
-Diese Erklärung bezieht sich auf SVWS-Schulungen auf [GitHub Pages](https://svws-nrw.github.io/SVWS-Schulungen/). Maßstab sind das Behindertengleichstellungsgesetz Nordrhein-Westfalen und die Barrierefreie-Informationstechnik-Verordnung Nordrhein-Westfalen.
+Diese Erklärung bezieht sich auf SVWS-Schulungen unter [schulungen.svws-nrw.de](https://schulungen.svws-nrw.de/). Maßstab sind das Behindertengleichstellungsgesetz Nordrhein-Westfalen und die Barrierefreie-Informationstechnik-Verordnung Nordrhein-Westfalen.
 
 ## Stand der Vereinbarkeit
 

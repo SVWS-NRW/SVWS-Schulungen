@@ -2,7 +2,7 @@
 
 Für diesen Aufgabenblock findest Du im Ordner Import_LUPO_KURS eine SQLite-Spieldatenbank mit zugehörigen .lup und .blo-Dateien.
 
-Die [Datenseite zu diesem Modul](https://svws-nrw.github.io/SVWS-Team/Datenbanken/schulungen/laufbahndaten.html) verlinkt die vorhandenen Dateien und benennt die Prüfgrenzen.
+Die [Datenseite zu diesem Modul](https://team.svws-nrw.de/Datenbanken/schulungen/laufbahndaten.html) verlinkt die vorhandenen Dateien und benennt die Prüfgrenzen.
 
 ## Download der benötigten Dateien
 Speichere alle Beispiel-Dateien aus dem Ordner Import_LUPO_KURS. 

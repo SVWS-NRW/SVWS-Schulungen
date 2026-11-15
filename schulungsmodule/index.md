@@ -4,7 +4,7 @@
 
 ## Unser Schulungskonzept
 
-Die Module vermitteln Arbeitsabläufe anhand von Aufgaben. Hilfen werden soweit möglich aus den verlinkten Seiten auf der SVWS-Doku und dem SchILD-NRW-3-Wiki entnommen.
+Die Module vermitteln Arbeitsabläufe anhand von Aufgaben. Hilfen zur Bedienung findest Du in der [SVWS-Doku](https://doku.svws-nrw.de/) und in der [SchILD3-Doku](https://schild3.svws-nrw.de/).
 
 In den Moderationsunterlagen werden die Aufgaben den Kapiteln zugeordnet und dann über eine eindeutige, die Aufgabe beschreibende Überschrift kenntlich gemacht.
 

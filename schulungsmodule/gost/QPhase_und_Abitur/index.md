@@ -39,7 +39,7 @@ Die Teilnahmebescheinigungen werden zeitnah automatisch generiert und verschickt
 ## Vorstellen des Supportkonzepts
 
 1. Fortbildungen        [lfb.nrw-bra.de/](https://lfb.nrw.de/bra/20426)
-2. SchILD-NRW-3-Wiki    https://schulverwaltungsinfos.nrw.de/svws/wiki/    
+2. SchILD3-Doku    https://schild3.svws-nrw.de/
 3. SVWS-Doku            [doku.svws-nrw.de](https://doku.svws-nrw.de)
 4. SVWS-Forum           https://schulverwaltungsinfos.nrw.de/svws/forum/index.php
 5. Fachberatersuche     https://www.svws.nrw.de/service/fachberatersuche

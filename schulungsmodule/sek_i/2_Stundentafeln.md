@@ -1,4 +1,4 @@
-# 2 [Stundentafeln](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Stundentafel_(Schulbezogene_Kataloge))
+# 2 [Stundentafeln](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/stundentafel-schulbezogene-kataloge.html)
 
 ## 2.1 Stundentafeln anpassen  
 

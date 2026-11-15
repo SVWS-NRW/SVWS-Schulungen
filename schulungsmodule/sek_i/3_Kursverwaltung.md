@@ -1,6 +1,6 @@
-# 3 [Kursverwaltung](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kurse_(Schulbezogene_Kataloge))
+# 3 [Kursverwaltung](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/kurse-schulbezogene-kataloge.html)
 
-## 3.1. [Kursunterricht anlegen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kursunterrichte_anlegen_(Tutorial))  
+## 3.1. [Kursunterricht anlegen](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/kursunterrichte-anlegen-tutorial.html)
 
 **Aufgabe 1**  
 Lege über Kataloge -> Kurse einen jahrgangsstufenübergreifenden zweistündigen Kurs für die Jahrgänge 05 & 06 an:  
@@ -9,7 +9,7 @@ Lege über Kataloge -> Kurse einen jahrgangsstufenübergreifenden zweistündigen
 **Aufgabe 2**  
 Lege je zwei vierstündige E- und G-Kurse für das Fach Englisch im Jahrgang 07 an und bestimme einen Kursleiter.
 
-### 3.1.1 [Schülerspezifische Kursarten](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClerspezifische_Kursarten_(Schulbezogene_Kataloge))
+### 3.1.1 [Schülerspezifische Kursarten](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/schuelerspezifische-kursarten-schulbezogene-kataloge.html)
 
 ### 3.1.2 weitere Details zu Kursen (mehr als zwei Lehrkräfte für ein Fach)  
 
