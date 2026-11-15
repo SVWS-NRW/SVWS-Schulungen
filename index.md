@@ -3,15 +3,14 @@ layout: home
 title: SVWS-Schulungen
 hero:
   name: SVWS-Schulungen
-  text: Schulungsunterlagen nach Regierungsbezirk
   actions:
     - theme: brand
-      text: Arnsberg
-      link: /moderation/
+      text: Hilfe
+      link: /hilfe/
 features:
   - title: Arnsberg
-    details: Schulungsmodule, Vorlagen und Hinweise für die Moderation.
-    link: /moderation/
+    details: Schulungsmodule und Vorlagen.
+    link: /schulungsmodule/
   - title: Detmold
     details: Hier sind noch keine Unterlagen eingetragen.
     link: /detmold/

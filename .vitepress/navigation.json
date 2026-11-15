@@ -2,8 +2,8 @@
   "nav": [
     {
       "text": "Arnsberg",
-      "link": "/moderation/",
-      "activeMatch": "(?:^/(moderation|schulungsmodule)(/|$))|(?:^/druck/arnsberg(?:[.]html)?$)"
+      "link": "/schulungsmodule/",
+      "activeMatch": "(?:^/schulungsmodule(?:/|$))|(?:^/druck/arnsberg(?:[.]html)?$)"
     },
     {
       "text": "Detmold",
@@ -34,32 +34,9 @@
   "sections": {
     "arnsberg": [
       {
-        "text": "Übersicht",
-        "link": "/moderation/",
-        "description": "Eine Schulung planen, durchführen und nachbereiten.",
-        "items": [
-          {
-            "text": "Schulung vorbereiten",
-            "link": "/moderation/vorbereiten",
-            "description": "Lernziele, Material und Raum abstimmen."
-          },
-          {
-            "text": "Schulung durchführen",
-            "link": "/moderation/durchfuehren",
-            "description": "Aufgaben anleiten und Lernfortschritt prüfen."
-          },
-          {
-            "text": "Schulung nachbereiten",
-            "link": "/moderation/nachbereiten",
-            "description": "Ergebnisse sichern und den Raum übergeben."
-          },
-          {
-            "text": "Material weiterentwickeln",
-            "link": "/moderation/material-pflegen",
-            "description": "Erprobte Aufgaben und Anleitungen pflegen."
-          }
-        ],
-        "collapsed": true
+        "text": "Rubrik drucken",
+        "link": "/druck/arnsberg",
+        "description": "Alle Artikel der Rubrik als Druckansicht."
       },
       {
         "text": "Schulungsmodule",
@@ -505,58 +482,58 @@
         ],
         "description": "Arbeitsabläufe in SchILD-NRW 3 und im SVWS-Client vergleichen.",
         "module": true
-      },
-      {
-        "text": "Rubrik drucken",
-        "link": "/druck/arnsberg",
-        "description": "Alle Artikel der Rubrik als Druckansicht."
       }
     ],
     "detmold": [
       {
-        "text": "Übersicht",
-        "link": "/detmold/"
-      },
-      {
         "text": "Rubrik drucken",
         "link": "/druck/detmold",
         "description": "Alle Artikel der Rubrik als Druckansicht."
+      },
+      {
+        "text": "Übersicht",
+        "link": "/detmold/"
       }
     ],
     "duesseldorf": [
       {
-        "text": "Übersicht",
-        "link": "/duesseldorf/"
-      },
-      {
         "text": "Rubrik drucken",
         "link": "/druck/duesseldorf",
         "description": "Alle Artikel der Rubrik als Druckansicht."
+      },
+      {
+        "text": "Übersicht",
+        "link": "/duesseldorf/"
       }
     ],
     "koeln": [
       {
-        "text": "Übersicht",
-        "link": "/koeln/"
-      },
-      {
         "text": "Rubrik drucken",
         "link": "/druck/koeln",
         "description": "Alle Artikel der Rubrik als Druckansicht."
+      },
+      {
+        "text": "Übersicht",
+        "link": "/koeln/"
       }
     ],
     "muenster": [
       {
-        "text": "Übersicht",
-        "link": "/muenster/"
-      },
-      {
         "text": "Rubrik drucken",
         "link": "/druck/muenster",
         "description": "Alle Artikel der Rubrik als Druckansicht."
+      },
+      {
+        "text": "Übersicht",
+        "link": "/muenster/"
       }
     ],
     "hilfe": [
+      {
+        "text": "Rubrik drucken",
+        "link": "/druck/hilfe",
+        "description": "Alle Artikel der Rubrik als Druckansicht."
+      },
       {
         "text": "Übersicht",
         "link": "/hilfe/"
@@ -592,11 +569,6 @@
       {
         "text": "Alle Artikel A–Z",
         "link": "/hilfe/alle-artikel"
-      },
-      {
-        "text": "Rubrik drucken",
-        "link": "/druck/hilfe",
-        "description": "Alle Artikel der Rubrik als Druckansicht."
       }
     ]
   },
@@ -609,7 +581,6 @@
     "hilfe": "Hilfe"
   },
   "routes": {
-    "/moderation/": "arnsberg",
     "/detmold/": "detmold",
     "/duesseldorf/": "duesseldorf",
     "/koeln/": "koeln",

@@ -1,6 +1,6 @@
 # Schulungsmodule {#schulungsmodule}
 
-Die Rubrik [Moderation](/moderation/) führt durch Planung, Durchführung und Nachbereitung. Hier findest Du Schulungsmodule für unterschiedliche Schulformen und Aufgaben in SchILD-NRW und im SVWS-Client. Wähle das passende Modul für Deine Zielgruppe; die Materialien unterstützen Dich bei der Vorbereitung und Durchführung Deiner Schulung.
+Die Rubrik [Moderation](https://svws-nrw.github.io/SVWS-Team/moderation/) führt durch Planung, Durchführung und Nachbereitung. Hier findest Du Schulungsmodule für unterschiedliche Schulformen und Aufgaben in SchILD-NRW und im SVWS-Client. Wähle das passende Modul für Deine Zielgruppe; die Materialien unterstützen Dich bei der Vorbereitung und Durchführung Deiner Schulung.
 
 ## Vorhandene Schulungsmodule
 
