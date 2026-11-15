@@ -535,36 +535,28 @@
         "description": "Alle Artikel der Rubrik als Druckansicht."
       },
       {
-        "text": "Übersicht",
-        "link": "/hilfe/"
+        "text": "Fortbildung",
+        "link": "/hilfe/fortbildung"
       },
       {
-        "text": "Mitarbeiten",
-        "link": "/hilfe/mitarbeiten"
+        "text": "Anleitungen",
+        "link": "/hilfe/anleitungen"
       },
       {
-        "text": "Redaktionsworkflow",
-        "link": "/hilfe/redaktionsworkflow"
+        "text": "Downloads",
+        "link": "/hilfe/downloads"
       },
       {
-        "text": "Mit VS Code bearbeiten",
-        "link": "/hilfe/vscode-editor"
-      },
-      {
-        "text": "Mit GitHub bearbeiten",
-        "link": "/hilfe/github-editor"
-      },
-      {
-        "text": "Artikel schreiben",
-        "link": "/hilfe/artikel-schreiben"
-      },
-      {
-        "text": "Markdown und Gestaltung",
-        "link": "/hilfe/markdown-und-gestaltung"
-      },
-      {
-        "text": "Bilderkatalog",
-        "link": "/bilder/"
+        "text": "Redaktion",
+        "items": [
+          { "text": "Mitarbeiten", "link": "/hilfe/mitarbeiten" },
+          { "text": "Redaktionsworkflow", "link": "/hilfe/redaktionsworkflow" },
+          { "text": "Mit VS Code bearbeiten", "link": "/hilfe/vscode-editor" },
+          { "text": "Mit GitHub bearbeiten", "link": "/hilfe/github-editor" },
+          { "text": "Artikel schreiben", "link": "/hilfe/artikel-schreiben" },
+          { "text": "Markdown und Gestaltung", "link": "/hilfe/markdown-und-gestaltung" },
+          { "text": "Bilderkatalog", "link": "/bilder/" }
+        ]
       },
       {
         "text": "Alle Artikel A–Z",

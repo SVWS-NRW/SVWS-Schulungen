@@ -90,6 +90,16 @@ try{
  assert.equal(await page.locator('.article-editor-link').first().getAttribute('href'),'https://github.com/'+project.repo+'/edit/dev/WORKFLOW.md')
  await view('/hilfe/alle-artikel.html')
  assert.ok(await page.locator('.article-index a').count()>10)
+ if (project.repo.endsWith('SVWS-Schulungen')) {
+  const titles = await page.locator('.article-index a').allTextContents()
+  for (const title of ['Fortbildung', 'Anleitungen', 'Downloads', 'Wahlen und Beratung', 'Stundenplan']) {
+   assert.ok(titles.includes(title), title)
+  }
+  assert.ok(!titles.includes('Alle Artikel A–Z'))
+  assert.equal(titles.filter(title => title.startsWith('Allgemeines (')).length, 3)
+  assert.deepEqual((await page.locator('#VPSidebarNav a').allTextContents()).slice(0, 4).map(text => text.trim()),
+   ['Rubrik drucken', 'Fortbildung', 'Anleitungen', 'Downloads'])
+ }
  assert.match(await page.locator('.article-index a').first().getAttribute('href'),/artikel=az/)
  await view('/hilfe/github-editor.html?artikel=az')
  await page.locator('.article-editor-link').first().waitFor()
