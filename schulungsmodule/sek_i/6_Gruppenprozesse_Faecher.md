@@ -1,6 +1,6 @@
 # 6 **Gruppenprozesse: Fächer**  
   
-## 6.1 [Kurse Schülern zuweisen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?)  
+## 6.1 [Kurse Schülern zuweisen](https://schild3.svws-nrw.de/schild3/suchen-gruppenprozesse/kurse-zuweisen-gruppenprozesse-faecher.html)
 
 **Aufgabe 1**  
 Weise den Kursen aus Abschnitt 3.1.2 jeweils 4 Schüler des Jahrgangs 7 zu (Gruppenprozesse -> Fächer -> Kurse zuweisen).  
@@ -8,7 +8,7 @@ Weise den Kursen aus Abschnitt 3.1.2 jeweils 4 Schüler des Jahrgangs 7 zu (Grup
 **Aufgabe 2**  
 Lass Dir die Fremdsprachenkurse im Jahrgang 9 anzeigen. Verändere bei drei Schülern die Einträge (E-Kurs in G-Kurs).
 
-## 6.2 [Details zu Fächern ändern (Epochenunterricht; Teamteaching)](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Details_zu_F%C3%A4chern_bei_Sch%C3%BClern_%C3%A4ndern_(Gruppenprozesse_F%C3%A4cher))  
+## 6.2 [Details zu Fächern ändern (Epochenunterricht; Teamteaching)](https://schild3.svws-nrw.de/schild3/suchen-gruppenprozesse/details-zu-faechern-bei-schuelern-aendern-gruppenprozesse-faecher.html)
 
 **Aufgabe 1**  
 Filtere die Klasse 07B aus und lege fest, dass die Kunstnote des ersten Halbjahres mit entsprechender Kennzeichnung auch auf das Versetzungszeugnis nach dem zweiten Halbjahr kommt.  

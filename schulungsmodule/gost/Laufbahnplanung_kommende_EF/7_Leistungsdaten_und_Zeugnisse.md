@@ -35,7 +35,7 @@ Setze in SchILD per Gruppenprozess
 + Konferenzdatum setzen
 + Zeugnisdatum setzen
 + Fehlstundensummen autom. berechnen (wenn Fehlstunde fachweise erfasst werden)
-+ ((Mahnungen automatisch setzen)) - für den im Produktivbetrieb durchgeführten Mahnungsprozess konsultiere bitte das Wiki von SchILD-NRW 3
++ Für den Ablauf im Produktivbetrieb siehe [Mahnungen automatisch setzen](https://schild3.svws-nrw.de/zeugnisse/vorbereitung/mahnungen-automatisch-setzen-gruppenprozesse-noten-zeugnisvorbereitung.html).
 + Zeugnisbemerkungen eintragen
 
 **Aufgaben 1.7.4 "Zeugniskonferenzvorlage per Report**
@@ -48,4 +48,4 @@ Du findest die Basisreportsammlung auf svws.nrw.de
 
 + Drucke über die Reportverwaltung Zeugnisse für Deine Stufe.
 + Setze die Einstellungen in der ini-Datei entsprechend
-+ Beachte die Wikiartikel zum Zeugnisdruck, Versetzung, Fehlern usw: [Wiki zum Zeugnisdruck](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3#Versetzung,_Abschlüsse_und_Zeugnisdruck)
++ Beachte die Wikiartikel zum Zeugnisdruck, Versetzung, Fehlern usw: [SchILD3-Doku zu Zeugnissen](https://schild3.svws-nrw.de/zeugnisse/)

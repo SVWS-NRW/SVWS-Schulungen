@@ -11,7 +11,7 @@ Am ersten Tag wird eine Lehrerliste erstellt, bei der alle grundlegenden Technik
 Wie immer gibt es Hilfen im Netz für den Umgang mit SchILD. Hier sind die wichtigsten:
 
 * [https://svws.nrw.de], die Hauptseite für alles, was mit SchILD zu tun hat
-* [https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite], die Hilfeseiten mit Wiki
+* <https://schild2.svws-nrw.de/>, die Hilfeseiten mit Wiki
 * [https://www.schulministerium.nrw.de/BiPo/fbsuche/fbsuche.xhtml] Fachberatersuche
 
 ## Reports
@@ -235,7 +235,7 @@ Klicke auf BeforeOpenDataPipelines und geben in die Programmiermaske die Sortier
 
 Dabei dürfen die Sortierfelder wie Name, Vorname nur ein Komma, nicht durch ein zusätzliches Leerzeichen getrennt werden. Achte darauf, den Sortiernamen genau wie das Datenbankfeld zu nennen.
 Würden wir hier zuerst das Geburtsdatum setzen, hätten wir eine Geburtstagsliste gemacht.  
-Befehle wie SetzeSortierung sind auf der Webseite von SchILD-NRW dokumentiert. Du findest sie unter der URL [RAP-Funktionen](https://wiki.svws.nrw.de/mediawiki/index.php?title=RAP-Funktionen)
+Befehle wie SetzeSortierung sind auf der Webseite von SchILD-NRW dokumentiert. Du findest sie unter der URL [RAP-Funktionen](https://schild2.svws-nrw.de/reporting/rap.html)
 
 ### Hintergrundprogrammierung zur Anpassung eines DB-Textes
 

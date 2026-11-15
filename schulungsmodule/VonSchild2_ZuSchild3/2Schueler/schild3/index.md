@@ -54,7 +54,7 @@ Analog zu den Klassen- und Versetzungstabellen findet man den Katalog der Vermer
 2. Vermerke bei einem Schüler aus der Q1 die Attestpflicht.
 
 ::: details
-Hilfe findest Du auch [hier](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vermerke_(Sch%C3%BCler))
+Hilfe findest Du auch [hier](https://schild3.svws-nrw.de/schild3/schueler/vermerke-schueler.html)
 :::
 
 

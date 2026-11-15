@@ -19,7 +19,7 @@
 + Öffne das Netzlaufwerk oder den lokalen Ordner "SVWS-Arbeitsverzeichnis" mit dem Datei-Explorer.
   ![SchILD3: Auswahl Kataloge](Bilder/Reports/schild_reports_dateistruktur.png)
 + Lege im Verzeichnis "Schild-Reports" ein neues Unterverzeichnis "Zeugnisse" an.
-+ Lade hier (https://www.svws.nrw.de/svws-server-schild-nrw-3/reports-zeugnisse-fuer-schild-nrw-3-als-download) die bereitgestellten Zeugnis-Reports für Schild3 für Deine Schulform herunter. Entpacke diese in das neu angelegte Verzeichnis.
++ Wähle in der SchILD3-Doku das [Zeugnispaket für Deine Schulform](https://schild3.svws-nrw.de/reporting/zeugnisformulare/zeugnispakete-auf-github.html). Lade es herunter und entpacke es in das neu angelegte Verzeichnis.
 + Klicke nun in SchILD3 in der "Reportverwaltung" auf "Verzeichnisbaum", damit dieser neu eingelesen wird, erweitere wieder die Ansicht auf die Unterordner.
 + Prüfe, welche Zeugnis-Reports Dir nun zur Verfügung stehen. Klicke hierzu auf den Ordner "Zeugnisse" unterhalb der "Schild-Reports".
   ![SchILD3: Neu bereitgestellte Zeugnisreports](Bilder/Reports/schild3_neu_bereitgestellte_zeugnisreports.png)

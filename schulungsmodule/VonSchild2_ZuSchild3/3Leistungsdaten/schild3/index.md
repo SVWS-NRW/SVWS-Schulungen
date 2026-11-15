@@ -40,8 +40,8 @@ Ein Schüler aus der Q1 hatte in der Jahrgangsstufe 10 in Italienisch eine HSU P
 
 Hinweis:<br>
 Konkrete Eintragungshilfen findest Du hier:
-* [Herkunftssprachlicher Unterricht](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Herkunftssprachlicher_Unterricht_(Tutorial))
-* [Feststellungsprüfung anstelle von Pflicht- oder Wahlpflichtfremdsprachen]( https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachpr%C3%BCfung_Feststellungspr%C3%BCfung_anstelle_von_Pflicht-_oder_Wahlpflichtfremdsprachen_(Tutorial))
+* [Herkunftssprachlicher Unterricht](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/herkunftssprachlicher-unterricht-tutorial.html)
+* [Feststellungsprüfung anstelle von Pflicht- oder Wahlpflichtfremdsprachen]( https://schild3.svws-nrw.de/zeugnisse/sekundarstufen/sprachpruefung-feststellungspruefung-anstelle-von-pflicht-oder-wahlpflichtfremdsprachen-tutorial.html)
 
 ## Abschlüsse
 

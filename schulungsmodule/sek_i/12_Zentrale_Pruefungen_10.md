@@ -1,14 +1,14 @@
 # 12 Zentrale Prüfungen Jahrgang 10
 
-## 12 [Einrichtung von Teilleistungen für die ZP 10/ZK](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_und_Teilleistungen_f%C3%BCr_ZP_10_und_ZK_(Tutorial))
+## 12 [Einrichtung von Teilleistungen für die ZP 10/ZK](https://schild3.svws-nrw.de/schild3/unterricht-kataloge/faecher-und-teilleistungen-fuer-zp-10-und-zk-tutorial.html)
 
-### 12.1 [Verwendung des Reiters ZP10/ZK](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZP10_ZK_%28Sch%C3%BCler%29)  
+### 12.1 [Verwendung des Reiters ZP10/ZK](https://schild3.svws-nrw.de/schild3/schueler/zp10-zk-schueler.html)
 
-### 12.2 [Prüfungsnoten aus Teilleistungen holen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Pr%C3%BCfungsnoten_aus_Teilleistungen_holen_(Gruppenprozesse_Zentrale_Klausuren))
+### 12.2 [Prüfungsnoten aus Teilleistungen holen](https://schild3.svws-nrw.de/zeugnisse/sekundarstufen/pruefungsnoten-aus-teilleistungen-holen-gruppenprozesse-zentrale-klausuren.html)
 
-### 12.3 [Abschlussnote berechnen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschluss_berechnen_(Gruppenprozesse_Zentrale_Klausuren))
+### 12.3 [Abschlussnote berechnen](https://schild3.svws-nrw.de/zeugnisse/sekundarstufen/abschluss-berechnen-gruppenprozesse-zentrale-klausuren.html)
 
-### 12.4 [Abschlussnote in Leistungsdaten übertragen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschlussnote_in_Leistungsdaten_%C3%BCbertragen_(Gruppenprozesse_Zentrale_Klausuren))
+### 12.4 [Abschlussnote in Leistungsdaten übertragen](https://schild3.svws-nrw.de/zeugnisse/sekundarstufen/abschlussnote-in-leistungsdaten-uebertragen-gruppenprozesse-zentrale-klausuren.html)
 
 **Aufgabe 3**:  
 Drucke den Report "ZP10 - Anlage 4 - Bekanntgabe der Noten - alle Schulformen.rtm" als PDF aus. Dieser Report empfiehlt sich für die effiziente Bekanntgabe der Noten. Du findest den Report in der Basissammlung im Ordner "Reports SI".
