@@ -16,5 +16,3 @@ Kontrolliere in den Leistungsdaten, ob alle Schüler beim Fach Musik ein entspre
 
 **Aufgabe 2**  
 Filtere die Klasse 07A aus und lege über den gleichen Gruppenprozess für alle Schüler eine zweite Lehrkraft (Team-Teaching) für das Fach Deutsch (2 WStd.) fest.
-
-<DownloadPdf />

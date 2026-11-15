@@ -1,0 +1,34 @@
+/* Projektfarben für die gemeinsamen Komponenten. */
+@media screen {
+  :root {
+    --vp-c-brand-1: #17675b;
+    --vp-c-brand-2: #11594e;
+    --vp-c-brand-3: #17675b;
+    --vp-c-brand-soft: #e9f4ef;
+    --vp-sidebar-bg-color: #f0f7f4;
+    --vp-button-brand-bg: #17675b;
+    --vp-button-brand-hover-bg: #11594e;
+    --vp-button-brand-active-bg: #0c4a40;
+    --schild-border: #d8e8e0;
+    --schild-hover-border: #88ada2;
+    --schild-shadow: 0 6px 20px rgb(23 68 57 / 8%);
+    --schild-table-bg: #f0f7f4;
+    --schild-glow: rgb(23 103 91 / 7%);
+    --schild-title-gradient: linear-gradient(110deg, #17675b 15%, #36754c 90%);
+  }
+  :root.dark {
+    --vp-c-brand-1: #86d4c0;
+    --vp-c-brand-2: #abe8d7;
+    --vp-c-brand-3: #17675b;
+    --vp-c-brand-soft: rgb(134 212 192 / 12%);
+    --vp-sidebar-bg-color: #182724;
+    --vp-button-brand-hover-bg: #267e6f;
+    --vp-button-brand-active-bg: #206c60;
+    --schild-border: #36514a;
+    --schild-hover-border: #79a99b;
+    --schild-shadow: 0 6px 20px rgb(0 0 0 / 18%);
+    --schild-table-bg: #203832;
+    --schild-glow: rgb(88 181 157 / 8%);
+    --schild-title-gradient: linear-gradient(110deg, #86d4c0 15%, #a2d394 90%);
+  }
+}
