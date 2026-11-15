@@ -7,6 +7,12 @@ hero:
     - theme: brand
       text: Hilfe
       link: /hilfe/
+    - theme: alt
+      text: SVWS-Doku
+      link: https://doku.svws-nrw.de/
+    - theme: alt
+      text: SchILD3-Doku
+      link: https://schild3.svws-nrw.de/
 features:
   - title: Arnsberg
     details: Schulungsmodule und Vorlagen.
