@@ -60,11 +60,14 @@ try{
  assert.equal(await page.locator('.VPNavBarMenu').getByRole('link',{name:'Arnsberg'}).getAttribute('href'),'/schulungsmodule/')
  for(const section of navigation.nav){
   await view(section.link)
-  assert.equal((await page.locator('#VPSidebarNav a').first().innerText()).trim(),'Rubrik drucken',section.text)
+  const sidebar=page.locator('#VPSidebarNav')
+  assert.equal((await sidebar.locator('a').first().innerText()).trim(),'Rubrik drucken',section.text)
+  assert.equal(await sidebar.getByText('Weitere Bereiche',{exact:true}).count(),0,section.text)
  }
  await view('/schulungsmodule/')
  const sidebarLinks=await page.locator('#VPSidebarNav a').allTextContents()
  assert.deepEqual(sidebarLinks.slice(0,2).map(text=>text.trim()),['Rubrik drucken','Schulungsmodule'])
+ assert.ok(!sidebarLinks.some(text=>text.trim()==='Schulungsvorlagen'))
  const arnsbergLinks=await page.locator('#VPSidebarNav .VPSidebarItem.level-1 > .item a').allTextContents()
  assert.ok(!arnsbergLinks.some(text=>text.trim()==='Übersicht'))
  const article='/hilfe/github-editor.html'
