@@ -49,8 +49,13 @@ try{
   await view('/')
  }
  assert.deepEqual((await page.locator('.VPNavBarMenu > a').allTextContents()).map(text=>text.trim()),headings)
- assert.equal(await page.locator('.VPHero .actions a').innerText(),'Hilfe')
- assert.equal(await page.locator('.VPHero .actions a').getAttribute('href'),'/hilfe/')
+ assert.deepEqual(await page.locator('.VPHero .actions a').evaluateAll(links=>links.map(link=>[
+  link.textContent.trim(),link.getAttribute('href')
+ ])),[
+  ['Hilfe','/hilfe/'],
+  ['SVWS-Doku','https://doku.svws-nrw.de/'],
+  ['SchILD3-Doku','https://schild3.svws-nrw.de/']
+ ])
  assert.equal(await page.getByText('Schulungsunterlagen nach Regierungsbezirk',{exact:true}).count(),0)
  assert.equal(await page.locator('.VPNavBarMenu').getByRole('link',{name:'Arnsberg'}).getAttribute('href'),'/schulungsmodule/')
  for(const section of navigation.nav){
