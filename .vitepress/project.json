@@ -1,0 +1,14 @@
+{
+  "repo": "SVWS-NRW/SVWS-Schulungen",
+  "site": "SVWS-Schulungen",
+  "articleRoots": [
+    "moderation",
+    "schulungsmodule",
+    "detmold",
+    "duesseldorf",
+    "koeln",
+    "muenster",
+    "hilfe",
+    "bilder"
+  ]
+}
