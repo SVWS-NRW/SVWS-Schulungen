@@ -1,0 +1,18 @@
+# Schulungen nur zur Sekundarstufe I
+
++ [1 Unterrichtsfächer](./1_Unterrichtsfaecher.md)
++ [2 Stundentafeln](./2_Stundentafeln.md)
++ [3 Kursverwaltung](./3_Kursverwaltung.md)
++ [4 Unterricht manuell bearbeiten](./4_Unterricht_manuell_bearbeiten.md)
++ [5 Unterricht importieren](./5_Unterricht_importieren.md)
++ [6 Gruppenprozesse: Fächer](./6_Gruppenprozesse_Faecher.md)
++ [7 Noten und Zeugnisvorbereitungen](./7_Noten_Zeugnisvorbereitungen.md)
++ [8 Drucken](./8_Drucken.md)
++ [9 Zeugnisformulare](./9_Zeugnisformulare.md)
++ [10 Halbjahreswechsel](./10_Halbjahreswechsel.md)
++ [11 Mahnungen](./11_Mahnungen.md)
++ [12 Zentrale Prüfungen 10](./12_Zentrale_Pruefungen_10.md)
++ [13 Vorbereitungen in SchILD](./13_Vorbereitungen_in_SchILD.md)
++ [14 Konferenzvorbereitung](./14_Konferenzvorbereitung.md)
++ [15 Zeugnisdruck](./15_Zeugnisdruck.md)
++ [16 Versetzung](./16_Versetzung.md)
