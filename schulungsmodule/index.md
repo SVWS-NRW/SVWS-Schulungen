@@ -1,19 +1,6 @@
 # Schulungsmodule {#schulungsmodule}
 
-Die Rubrik [Moderation](https://svws-nrw.github.io/SVWS-Team/moderation/) führt durch Planung, Durchführung und Nachbereitung. Hier findest Du Schulungsmodule für unterschiedliche Schulformen und Aufgaben in SchILD-NRW und im SVWS-Client. Wähle das passende Modul für Deine Zielgruppe; die Materialien unterstützen Dich bei der Vorbereitung und Durchführung Deiner Schulung.
-
-## Vorhandene Schulungsmodule
-
 <NavigationOverview path="/schulungsmodule/" label="Schulungsmodul" />
-
-## Eine Schulung vorbereiten
-
-1. Zielgruppe und Lernziele festlegen; passende Aufgaben aus den Modulen auswählen.
-2. [modulbezogene Übungsdatenbank](https://svws-nrw.github.io/SVWS-Team/Datenbanken/schulungen/) und [Schulungsumgebung](https://svws-nrw.github.io/SVWS-Team/Fachberatung_Anleitungen/Test-_und_Schulungsserver/) vorbereiten.
-3. Aufgaben mit dem vorgesehenen Softwarestand selbst durchspielen.
-4. Moderationshinweise, Teilnehmendenmaterial und einen Rücksetzweg bereithalten.
-
-Die [Vorlagen für Schulungsunterlagen](./vorlagen.md) helfen Dir bei Ablauf, Aufgaben und Moderation. Für den Austausch zu Schulungskonzepten nutze die [internen Fortbildungsangebote](https://svws-nrw.github.io/SVWS-Team/fortbildung/).
 
 ## Unser Schulungskonzept
 
