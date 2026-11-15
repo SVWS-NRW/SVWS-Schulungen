@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, process.cwd(), '');
     return {
         lang: 'de-DE',
-        base: env.BASE === undefined ? '/SVWS-Schulungen/' : env.BASE,
+        base: env.BASE ?? '/',
         title: 'SVWS-Schulungen',
         description: 'Schulungsunterlagen zu SchILD-NRW und SVWS nach Regierungsbezirk',
         lastUpdated: true,

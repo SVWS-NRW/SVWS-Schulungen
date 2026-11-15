@@ -4,4 +4,4 @@ Schulungsdokumentation für die fünf Regierungsbezirke in NRW. Die Rubrik Arnsb
 
 ## Lokal starten
 
-Mit Node.js 24 im Repository zuerst npm ci und dann npm run docs:dev ausführen. npm run docs:check prüft Navigation, Markdown, Build und lokale Links. Für GitHub Pages ist als Quelle GitHub Actions vorgesehen. Der Veröffentlichungsworkflow startet bei Änderungen an master.
+Mit Node.js 24 im Repository zuerst npm ci und dann npm run docs:dev ausführen. Die Vorschau startet standardmäßig unter http://localhost:5173/. npm run docs:check prüft Navigation, Markdown, Build und lokale Links. Für GitHub Pages ist als Quelle GitHub Actions vorgesehen. Der Veröffentlichungsworkflow startet bei Änderungen an master.
