@@ -1,0 +1,67 @@
+# Import von SchILD2-Laufbahndaten
+
+Für diesen Aufgabenblock findest Du im Ordner Import_LUPO_KURS eine SQLite-Spieldatenbank mit zugehörigen .lup und .blo-Dateien.
+
+Die [Datenseite zu diesem Modul](https://team.svws-nrw.de/Datenbanken/schulungen/laufbahndaten.html) verlinkt die vorhandenen Dateien und benennt die Prüfgrenzen.
+
+## Download der benötigten Dateien
+Speichere alle Beispiel-Dateien aus dem Ordner Import_LUPO_KURS. 
+
+## Import der Spieldatenbank
+Importiere die SQLite Datenbank über das Admin-Tool im Client. Da einige Features derzeit noch nicht über den Client realisiert werden können (beispielsweise Gruppenprozesse), ist es hilfreich, eine Verbidungsdatei von SchILD-NRW3 zur Datenbank zu erstellen. Erstelle die Verbindung mit SchILD_DBConfig; das ist keine Datenmigration.    
+Kontrolliere anschließend im Client, 
++ ob in der Datenbank noch kein Abiturjahrgang angelegt ist und
++ ob bei den SchülerInnen noch keine Laufbahnplanung hinterlegt ist.
+
+> [!NOTE]
+> Es wird empfohlen, den Import über den Client-Admin auszuführen.  
+> Rufe dazu über den Brower die Seite *https://localhost/admin* auf.  
+> Über "Backup wiederherstellen: SQLite-Schema importieren" kann die entsprechende Datenbank ausgewählt werden.
+
+## Import der Fachwahlen
+Importiere die Fachwahlen der EF, Q1 und Q2. (.lup-Dateien)   
+
+
+## Englischwahl korrigieren
+Aufgrund von Altlasten aus der SchILD2-DB kann es zu Fehlern in der Laufbahnplanung kommen.    
+
+
+In der vorliegenden Datenbank wurde neben dem Kürzel E auch E5 in der Oberstufe gepflegt:
+![Englisch in der Oberstufe](./graphics/Schulungsmaterial_LeistungsdatenS2_LupImport_E5.png)
+
+Korrigiere diesen Fehler.
+> [!NOTE]
+> Kataloge --> Fächer
+
+Nachdem E5 nun nicht mehr im Fächerkatalog der Oberstufe erscheint, ist das Fach E nach wie vor ausgegraut. Betrachtet man eine Laufbahnplanung eines Schülers, ist folgender Fehlercode ersichtlich:   
+**Eine fortgeführte Fremdsprache wurde in der Sprachenfolge als neu einsetzend eingetragen. Die Sprachenfolge ist fehlerhaft.**
+
+Korrigiere diesen Fehler. Da aktuell noch keine Gruppenprozesse über den SVWS-Client implementiert sind, kann dies mit SchILD-NRW3 schnell korrigiert werden.
+
+![Sprachenfolge](./graphics/Schulungsmaterial_LeistungsdatenS2_LupImport_SprachenfolgeEintragen.png)
+
+## Import einer Kurs42 Blockung
+Bevor eine alte Kurs42-Blockung im SVWS-Client importiert werden kann, müssen die dazu notwendigen Text-Dateien aus Kurs42 heraus exportiert und gezippt werden. Details dazu sind im SVWS-Client im Reiter Schule/Datenaustausch/Kurs42-Blockungen beschrieben.   
+1. Öffne die Blockung für die EF _EF_2023_24.2.blo und erstelle einen zip-Ordner 
+2. Importiere die Blockung im SVWS-Client und sichte diese im Abiturjahrgang der EF.
+3. Optional: Erstelle mit dem Client eine weitere Blockung und vergleiche die Ergebisse
+
+
+## Import für die Q1
+1. Importiere die Kurswahlen für die Q1
+2. Löse Konflikte
+3. Importiere die Kursblockung der Q1
+4. Schreibe die Kursblockung hoch
+5. Lösche leere Kurse
+6. Lege Zusatzkurse an
+
+
+> [!NOTE]
+> **Für den Optimalfall (kein Schüler muss einen bestehenden Kurs wechseln)**  
+> Alle Kurse außer den Zusatzkursen links mit einer Checkbox auswählen (=Erst alle auswählen und Zusatzkurse dann abwählen)    
+> die Fixierungsoptionen oben nutzen und damit Kurse und Schüler fixieren (dauert etwas)   
+> Anschließend bei den Zusatzkursen evtl. Schienen sperren, in die sie nicht sollen.    
+> Jetzt blocken.
+
+
+
